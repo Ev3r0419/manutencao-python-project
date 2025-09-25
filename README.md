@@ -3,7 +3,7 @@
 #O projeto se chama "Help Desk - Notebook Manager"
 
 #Criado para gerenciar equipamentos (notebooks) que necessitam de manutenção e realizar a mediação com as assistências técnicas sobre os notebooks que já estão em fase de conserto. 
-O objetivo é simplificar a maneira de armazenamento e consulta dos dados sem a necessidade visual e complexa de uma planilha, evitando erros que podem ser cometidos, sejam eles de escrita ou até mesmo por falta de algum dado considerado importante.
+Tem como objetivo simplificar a maneira de armazenamento e consulta dos dados sem a necessidade visual e complexa de uma planilha, evitando erros que podem ser cometidos, sejam eles de escrita ou até mesmo por falta de algum dado considerado importante.
 
 #Foi criado em Python e utiliza diversas bibliotecas sendo uma delas a "gspread", uma API que faz a comunicação do Python com o Google Sheets, onde atualmente funciona como um banco de dados.
 
