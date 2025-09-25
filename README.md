@@ -1,4 +1,4 @@
-# manutencao-python-project
+HELP DESK - NOTEBOOK MANAGER
 
 #O projeto se chama "Help Desk - Notebook Manager"
 
